@@ -3,5 +3,5 @@ Console.WriteLine("Hello, My First Git Project!");
 
 Console.WriteLine("Hello from new branch");
 
-Console.WriteLine("These are my new changes");
+Console.WriteLine("This will cause merge conflicts");
 
